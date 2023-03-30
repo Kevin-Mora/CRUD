@@ -12,4 +12,4 @@ Programa hecho con IDE Intellij Idea, en el lenguaje de Kotlin en el cual implem
 
 6-Exportar registro a excel.
 
-Imagen
+![Imagen de exportacion de mi lista tipo producto](https://github.com/Kevin-Mora/CRUD/blob/main/Imagen%20excel.png)
